@@ -1,7 +1,7 @@
 # Oi, sou a Carol Rodrigues! :star2:
 
 - 🌱 Começando minha caminhada na programação.
-- ✏️ Estou aprendendo HTML, CCS e Javascript.
+- ✏️ Estou aprendendo HTML, CSS e Javascript.
 - 🏝️ De Salvador, Bahia.
 
 🚀 "Você é o único representante do seu sonho na face da Terra."
