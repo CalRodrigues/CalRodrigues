@@ -6,7 +6,7 @@
 - 🏝️ From Salvador, Bahia.
 - 💖 Love music, TV shows, play video games and reading!
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236FA4FC&size=18&vCenter=true&lines=%23NeverStopLearning)](https://git.io/typing-svg)
 
 "Você é o único representante do seu sonho na face da Terra." 🚀
 
