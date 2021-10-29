@@ -17,11 +17,11 @@
 
 ### 📚 Studying:
 
-<div style="display: inline_block">
-  <a href="https://github.com/CalRodrigues"><img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://github.com/CalRodrigues"><img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://github.com/CalRodrigues"><img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
- </div><hr>
+[![HTML](https://img.shields.io/badge/-HTML-32344c?style=flat&logo=HTML5&logoColor=white)&nbsp;](https://github.com/calrodrigues)
+[![CSS](https://img.shields.io/badge/-CSS-32344c?style=flat&logo=CSS3&logoColor=white)&nbsp;](https://github.com/calrodrigues)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-32344c?style=flat&logo=javascript&logoColor=white)&nbsp;](https://github.com/calrodrigues)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-1A1B27?style=flat&labelColor=32344c&logo=Gmail&Color=white)](mailto:rcaroline04@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&labelColor=32344c&logo=Instagram&Color=white)](https://instagram.com/rcaroline04)
+<hr>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-1A1B27?style=flat&labelColor=32344c&logo=Gmail&logoColor=white)](mailto:rcaroline04@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&labelColor=32344c&logo=Instagram&logoColor=white)](https://instagram.com/rcaroline04)
