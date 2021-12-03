@@ -2,7 +2,7 @@
 
 - ✨ Just starting my adventure as web developer!
 - ✏️ I’m currently learning HTML, CSS and JavaScript.
-- 📫 Find me on: rcaroline04@gmail.com
+- 📫 Find me on: carolrodriguesdev@gmail.com
 - 🏝️ From Salvador, Bahia.
 - 💖 Love music, TV shows, play video games and reading!
 
