@@ -23,5 +23,5 @@
 
 <hr>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-1A1B27?style=flat&labelColor=32344c&logo=Gmail&logoColor=white)](mailto:rcaroline04@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-1A1B27?style=flat&labelColor=32344c&logo=Gmail&logoColor=white)](mailto:carolrodriguesdev04@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&labelColor=32344c&logo=Instagram&logoColor=white)](https://instagram.com/rcaroline04)
